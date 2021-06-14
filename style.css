@@ -1,0 +1,21 @@
+
+
+body {
+    height: 100vh;
+}
+
+.back {
+    height: 20vh;
+    background-image: url(bike-background.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.but {
+    color:#1E90FF;
+}
+button {
+       border: #1E90FF solid 1px;
+}
